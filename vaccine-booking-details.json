@@ -1,0 +1,71 @@
+{
+    "beneficiary_dtls": [
+        {
+            "bref_id": "22427101219580",
+            "name": "Naga Silpa Konga",
+            "vaccine": "",
+            "age": 29,
+            "status": "Not Vaccinated"
+        },
+        {
+            "bref_id": "36779056262000",
+            "name": "Raju Konga",
+            "vaccine": "",
+            "age": 33,
+            "status": "Not Vaccinated"
+        }
+    ],
+    "location_dtls": [
+        {
+            "pincode": "560066",
+            "alert_freq": 440
+        },
+        {
+            "pincode": "560017",
+            "alert_freq": 660
+        },
+        {
+            "pincode": "560036",
+            "alert_freq": 880
+        },
+        {
+            "pincode": "560049",
+            "alert_freq": 1100
+        },
+        {
+            "pincode": "560078",
+            "alert_freq": 1320
+        },
+        {
+            "pincode": "560001",
+            "alert_freq": 1540
+        },
+        {
+            "pincode": "560002",
+            "alert_freq": 1760
+        },
+        {
+            "pincode": "560003",
+            "alert_freq": 1980
+        },
+        {
+            "pincode": "560008",
+            "alert_freq": 2200
+        },
+        {
+            "pincode": "560030"
+        }
+    ],
+    "search_option": 1,
+    "minimum_slots": 2,
+    "refresh_freq": 5,
+    "auto_book": "yes-please",
+    "start_date": 2,
+    "vaccine_type": null,
+    "fee_type": [
+        "Free",
+        "Paid"
+    ],
+    "captcha_automation": "no",
+    "captcha_automation_api_key": ""
+}
