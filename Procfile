@@ -1,0 +1,1 @@
+worker: python src/covid-vaccine-slot-booking.py
