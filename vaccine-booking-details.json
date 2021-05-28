@@ -54,11 +54,47 @@
         },
         {
             "pincode": "560030"
+        },
+        {
+            "pincode": "560034"
+        },
+        {
+            "pincode": "560011"
+        },
+        {
+            "pincode": "560010"
+        },
+        {
+            "pincode": "560041"
+        },
+        {
+            "pincode": "560020"
+        },
+        {
+            "pincode": "560023"
+        },
+        {
+            "pincode": "560029"
+        },
+        {
+            "pincode": "560060"
+        },
+        {
+            "pincode": "560022"
+        },
+        {
+            "pincode": "560007"
+        },
+        {
+            "pincode": "560068"
+        },
+        {
+            "pincode": "560037"
         }
     ],
     "search_option": 1,
     "minimum_slots": 2,
-    "refresh_freq": 5,
+    "refresh_freq": 10,
     "auto_book": "yes-please",
     "start_date": 2,
     "vaccine_type": null,
